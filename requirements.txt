@@ -1,0 +1,6 @@
+foundry-local-sdk
+numpyfoundry-local-sdk
+numpy
+sentence-transformers
+streamlit
+pywebview
